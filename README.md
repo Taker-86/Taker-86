@@ -1,7 +1,7 @@
 # Hi there 👋
 About Me:
-I'm a student from Germany.
-In my freetime i enjoy buildung smal projekts and learn something new.
+* I'm a student from Germany.
+* In my freetime i enjoy buildung smal projekts and learn something new.
 
 My codingleanguages:
 * Java
