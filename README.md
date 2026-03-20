@@ -10,8 +10,8 @@ My codingleanguages:
 * Css,Htlm and Js
 
 Funfacts about me:
->  I love quotes
->  I play Videogames
+* I love quotes
+* I play Videogames
 
 
 
